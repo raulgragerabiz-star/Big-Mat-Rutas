@@ -1,0 +1,8 @@
+{
+  "name": "BigMat Pinto - Optimizador de Rutas y Distribución",
+  "description": "Prototipo funcional de optimización de rutas, asignación de flota, simulación de escenarios (3.000 kg, 200 kg y sin umbral), costes del Observatorio del Ministerio y márgenes de distribución para BigMat Pinto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

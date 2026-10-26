@@ -1,0 +1,12 @@
+RUTA (tal cual sale del ERP)	CENTRO LOGÍSTICO	DÍAS EXPEDICIÓN ACORDADOS
+ASTURIAS (Pinto)	Pinto	miercoles
+EXTREMADURA (Pinto)	Pinto	lunes y miercoles
+EXTREMADURA 2 (Pinto)	Pinto	lunes y miercoles
+LEÓN (Pinto)	Pinto	martes y jueves
+MAD 01 (Pinto)	Pinto	martes y jueves
+MAD 02 (Pinto)	Pinto	martes y jueves
+MAD 03 (Pinto)	Pinto	lunes y miercoles
+MADRID (Pinto)	Pinto	lunes martes miercoles jueves y viernes
+PORTU 4 (Pinto)	Pinto	lunes y miercoles
+Transito-PINTO-BURRIANA (Pinto)	Pinto	segun demanda
+A CENTRO (Pinto)	Pinto	segun demanda
